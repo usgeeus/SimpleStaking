@@ -1,0 +1,2 @@
+# SimpleStaking
+Ton
